@@ -1,0 +1,12 @@
+{
+  "name": "viral-video-agent",
+  "version": "1.0.0",
+  "description": "A short-form video agent for Claude Code: niche research, edit planning, editing with video-use, self-checks and a critic pass, for Reels, TikTok and Shorts.",
+  "author": {
+    "name": "victoriasun7663-dev"
+  },
+  "homepage": "https://github.com/victoriasun7663-dev/viral-vid-agent",
+  "repository": "https://github.com/victoriasun7663-dev/viral-vid-agent",
+  "license": "MIT",
+  "keywords": ["video", "short-form", "reels", "tiktok", "ugc", "editing", "video-use"]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "viral-video-agent",
+  "owner": {
+    "name": "victoriasun7663-dev"
+  },
+  "plugins": [
+    {
+      "name": "viral-video-agent",
+      "source": "./",
+      "description": "A short-form video agent for Claude Code: niche research, edit planning, editing with video-use, self-checks and a critic pass."
+    }
+  ]
+}
